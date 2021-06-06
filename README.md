@@ -1,4 +1,4 @@
-# ElectricChargerMap
+# News App
 
 ## Project setup
 ```
