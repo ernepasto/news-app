@@ -25,7 +25,7 @@
         </div> <!-- /.user-form-container -->
 
         <div class="new-user-form">
-            <h1 class="new-user-form-title">Aggioranare il profilo</h1>
+            <h1 class="new-user-form-title">Aggiornare il profilo</h1>
                 <div class="new-user-form-container">
                     <div class="label-group">
                     <label for="name">Nome:</label>

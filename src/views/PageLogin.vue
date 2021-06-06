@@ -4,7 +4,7 @@
             <div class="column">
                 <h1>Accedi con i tuoi dati</h1>
                 <p>
-                    Devi avere un account e accedere per poter leggere
+                    Devi possedere un account per poter leggere
                     le notizie live sull'argomento che più ti interessa.
                 </p>
             </div> <!-- /.column -->

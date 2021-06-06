@@ -9,7 +9,7 @@
                 </h1>
                 <p class="header-text">
                     Selezioniamo per te le notizie più popolari dalle maggiori
-                    testate giornalistiche italiane per offrirti un nuovo modo
+                    testate giornalistiche italiane, per offrirti un nuovo modo
                     per essere sempre aggiornati.
                 </p>
                 <router-link :to="{ name: 'PageNews'}" class="header-cta">
@@ -35,15 +35,15 @@
                         <h3>Top headlines</h3>  
                         <p>
                             Nella sezione "news" si ha la possibilità di leggere
-                            le notizie le breaking news della giornata oppure
-                            quelle relative a una particolare categoria.
+                            le breaking news della giornata e di scegliere
+                            una particolare categoria.
                         </p>  
                     </div> <!-- /.column -->
                     <div class="column">
                         <h3>Qualunque device</h3>    
                         <p>
-                            Grazie al design responsiva l'applicazione è fruibile da
-                            qualunque dispositvo, tramite qualsisi browser web.
+                            Grazie al design responsivo l'applicazione è fruibile da
+                            qualunque dispositvo, tramite qualsiasi browser web.
                             In questo modo potrai informarti in qualunque momento! 
                         </p>
                     </div> <!-- /.column -->
@@ -60,12 +60,12 @@
                     <div class="column">
                         <h2 class="section-title">Segui gli eventi</h2>
                         <p>
-                            Crea subito il tuo accout gratuitamente. 
-                            Potrai usifruire di tutti i servizi offerti <span>gratuitamente</span> e
-                            con la possibilità di eliminare l'account quando vorrai.
+                            Crea subito il tuo account. 
+                            Potrai usufruire di tutti i servizi offerti <span>gratuitamente</span> e
+                            con la possibilità di eliminare tutti i dati quando vorrai.
                         </p>
                         <p>
-                            Hai a tua disposizione notizie di diverse categorie: <span>generale, buisness, 
+                            Hai a tua disposizione notizie appartenenti a diverse categorie: <span>generale, buisness, 
                             intrattenimento, salute, scienza, sport e tecnologia. </span>
                         </p>
                         <router-link :to="{ name: 'PageSignup'}" class="section-btn">
