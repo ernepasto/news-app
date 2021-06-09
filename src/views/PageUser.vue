@@ -14,7 +14,7 @@
                 </div> <!-- /.label-group -->
                 <div class="label-group">
                     <label for="email">Email:</label>
-                    <input :value="user.email" type="text" id="email" autocomplete="off" disabled>
+                    <input :value="user.email" type="email" id="email" autocomplete="off" disabled>
                 </div> <!-- /.label-group -->
                 <div class="label-group">
                     <label for="date">Data iscrizione:</label>
