@@ -41,11 +41,11 @@
                 </div> <!-- /.label-group -->
                 <div class="label-group">
                     <label for="newPassword">Nuova password:</label>
-                    <input v-on:keyup.enter="update" v-model="newUser.newPassword" type="text" id="newPassword" placeholder="A secret word" autocomplete="off">
+                    <input v-on:keyup.enter="update" v-model="newUser.newPassword" type="password" id="newPassword" placeholder="A secret word" autocomplete="off">
                 </div> <!-- /.label-group -->
                 <div class="label-group">
                     <label for="password">Password attuale (obbligatoria):</label>
-                    <input v-on:keyup.enter="update" v-model="newUser.password" type="text" id="password" placeholder="A secret word" autocomplete="off">
+                    <input v-on:keyup.enter="update" v-model="newUser.password" type="password" id="password" placeholder="A secret word" autocomplete="off">
                 </div> <!-- /.label-group -->
                 <div v-on:click="remove" class="delete-btn">Elimina account</div>
                 <div v-on:click="update" class="update-btn">Salva</div>
